@@ -30,9 +30,9 @@ namespace Strings
 
             //caixa_texto.Text = frase + " (contem " + frase.Length + "letras )";
 
-            //caixa_texto.Text = frase.ToUpper();
+            caixa_texto.Text = frase.ToUpper();
 
-            caixa_texto.Text = frase.Substring(5);
+            //caixa_texto.Text = frase.Substring(5);
 
             Console.WriteLine("ola word");
 

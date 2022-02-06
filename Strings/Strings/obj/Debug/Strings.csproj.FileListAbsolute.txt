@@ -8,3 +8,13 @@ C:\Csharp\Strings\Strings\obj\Debug\Strings.csproj.GenerateResource.cache
 C:\Csharp\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
 C:\Csharp\Strings\Strings\obj\Debug\Strings.exe
 C:\Csharp\Strings\Strings\obj\Debug\Strings.pdb
+C:\Csharp\Github\AulasC#\teste\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Csharp\Github\AulasC#\teste\Strings\Strings\bin\Debug\Strings.exe
+C:\Csharp\Github\AulasC#\teste\Strings\Strings\bin\Debug\Strings.pdb
+C:\Csharp\Github\AulasC#\teste\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Csharp\Github\AulasC#\teste\Strings\Strings\obj\Debug\Strings.Form1.resources
+C:\Csharp\Github\AulasC#\teste\Strings\Strings\obj\Debug\Strings.Properties.Resources.resources
+C:\Csharp\Github\AulasC#\teste\Strings\Strings\obj\Debug\Strings.csproj.GenerateResource.cache
+C:\Csharp\Github\AulasC#\teste\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Csharp\Github\AulasC#\teste\Strings\Strings\obj\Debug\Strings.exe
+C:\Csharp\Github\AulasC#\teste\Strings\Strings\obj\Debug\Strings.pdb
