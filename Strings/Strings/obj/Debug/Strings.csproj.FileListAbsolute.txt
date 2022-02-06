@@ -1,0 +1,10 @@
+C:\Csharp\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Csharp\Strings\Strings\bin\Debug\Strings.exe
+C:\Csharp\Strings\Strings\bin\Debug\Strings.pdb
+C:\Csharp\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Csharp\Strings\Strings\obj\Debug\Strings.Form1.resources
+C:\Csharp\Strings\Strings\obj\Debug\Strings.Properties.Resources.resources
+C:\Csharp\Strings\Strings\obj\Debug\Strings.csproj.GenerateResource.cache
+C:\Csharp\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Csharp\Strings\Strings\obj\Debug\Strings.exe
+C:\Csharp\Strings\Strings\obj\Debug\Strings.pdb
